@@ -1,0 +1,1 @@
+This contains the contracts, code, and tests for module 6 of CIS 459. Most content is forked from https://github.com/dro20dayethereumchallenge/day_12_13_14/tree/main and altered as per the assignment directive.
